@@ -1,9 +1,9 @@
-*Spreadsheet Prototype*
+*Spreadsheet Prototype*<br>
 A modern, interactive spreadsheet web application built with Next.js, React, and TypeScript. 
 This project provides a dynamic table interface for managing tabular data, supporting features like multiple tabs, custom actions, and data export. 
 It’s ideal for prototyping data-driven workflows or serving as a foundation for more advanced spreadsheet solutions.
 
-*Features:*
+*Features:*<br>
 Spreadsheet-like table interface
 Add, edit, and delete rows
 Multiple tabs for organizing data
@@ -12,7 +12,7 @@ Export data functionality
 Customizable actions and modals
 Built with TypeScript for type safety
 
-*Tech Stack*
+*Tech Stack*:<br>
 Next.js
 React
 TypeScript
