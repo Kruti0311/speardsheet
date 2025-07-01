@@ -33,3 +33,5 @@ pnpm (install with npm install -g pnpm)<br>
    pnpm dev<br>
    <br>
 The app will be available at <http://localhost:3000>.<br>
+
+You can see outcome on this: https://speardsheet-by-kruti.vercel.app/
